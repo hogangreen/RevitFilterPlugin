@@ -1,0 +1,6 @@
+E:\C#项目\RevitFilterPlugin\obj\Debug\RevitFilterPlugin.csproj.AssemblyReference.cache
+E:\C#项目\RevitFilterPlugin\obj\Debug\RevitFilterPlugin.csproj.CoreCompileInputs.cache
+E:\C#项目\RevitFilterPlugin\bin\Debug\RevitFilterPlugin.dll
+E:\C#项目\RevitFilterPlugin\bin\Debug\RevitFilterPlugin.pdb
+E:\C#项目\RevitFilterPlugin\obj\Debug\RevitFilterPlugin.dll
+E:\C#项目\RevitFilterPlugin\obj\Debug\RevitFilterPlugin.pdb
